@@ -2,7 +2,7 @@
 #Miguel Rosas
 
 # Lista de valores para lc
-valores_porosidad=("0.9" "0.8" "0.7" "0.6" "0.5" "0.4")
+valores_porosidad=("0.9" "0.8" "0.7" "0.6" "0.5" "0.4" "0.3")
 
 # Verifica si se proporciona la cantidad como argumento
 if [ $# -eq 0 ]; then
